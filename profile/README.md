@@ -32,11 +32,11 @@ Team #   | Team Name             | Reg. #     | Name                         | R
 | 9      | Squad404              | 2017331518 | Md. Sajib Mia                | 2017331529 | Pappu Dey                |              |
 | 10     | Team\_Alliance        | 2017331506 | Sudipta Banik Trisha         | 2017331535 | Abdullah Ahmed Chowdhury |              |
 | 11     | Cryptos               | 2017331528 | Sheikh Sanjida Tabassum Esha | 2016331541 | Nishat Naila Shorno      |              |
-| 12     | NoobMaster            | 2017331537 | syed shibli mahmud           |            |                          |              |
+| 12     | NoobMaster            | 2017331537 | syed shibli mahmud           | 2017331509 | Sumaiyah Chowdhury       |              |
 | 13     | Team Candy            | 2017331501 | Sakib Alam Snigdha           | 2017331531 | Md. Masum Billah         |              |
 | 14     | SEC\_rational\_agents | 2017331557 | NASIM AHMED                  | 2017331555 | RASEL HASAN              |              |
 | 15     | SEC\_Digit            | 2017331532 | Md. Jabed Dhali              | 2017331538 | Md. Johaer Plabon        |              |
-| 16     | Suside Squad          | 2017331556 | Roy Himadree Shekhar         | 2017331530 | Shaikat Barua            |              |
+| 16     | Suicide Squad         | 2017331556 | Roy Himadree Shekhar         | 2017331530 | Shaikat Barua            |              |
 | 17     | Team Desert           | 2017331548 | Sachin Singh                 | 2017331546 | Md. Atiquzzaman Tuhin    |              |
 | 18     | Abasas                | 2016331520 | Ruhul Amin                   | 2017331541 | Sheikh Taraque Aziz      |              |
 | 19     | Dynasty               | 2017331543 | Fareea Mehjebin              | 2017331503 | Nujhath Rahman           |              |
